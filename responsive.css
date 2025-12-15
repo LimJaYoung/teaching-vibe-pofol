@@ -1,7 +1,7 @@
 /* =========================
    TABLET 1024~768
    ========================= */
-@media (max-width: 1024px) and (min-width: 768px) {
+@media (max-width: 1024px) and (min-width: 769px) {
   /* tablet tokens override (header/hero) */
   :root {
     --width-container-inner: 960px;
@@ -753,7 +753,7 @@
 
   .hero-img {
     position: absolute;
-    top: 484px;
+    top: 627px;
     left: 61px;
     width: 670px;
     height: 728px;
